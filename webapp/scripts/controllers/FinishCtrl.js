@@ -7,8 +7,8 @@ angular.module('tutor').controller("FinishCtrl", function($scope, User) {
         FB.ui({
             method: 'share',
             display: 'popup',
-            href: 'http://ansiedade.tk/',
-            title: 'Está Ansioso(a)?',
+            href: 'http://selfhandicapping.tk/',
+            title: 'Estudo sobre self-handicapping',
             description: 'Participe deste estudo sobre Self-handicapping e descubra!',
             picture: 'https://pixabay.com/static/uploads/photo/2016/02/07/14/51/hatena-1184896_960_720.png',
             layout: 'button'
